@@ -1,0 +1,2 @@
+# thorzaonegocios
+Thorzao negócios game
